@@ -1,6 +1,6 @@
 # Avinash Barik
 
-Software Engineer | TCS Prime Candidate  
+Software Engineer  
 M.Tech CSE, National Institute of Technology Durgapur  
 GATE CSE 2023 – AIR < 1000  
 
